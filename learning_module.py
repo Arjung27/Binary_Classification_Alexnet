@@ -2,8 +2,6 @@
 #
 # learning_module.py
 # Python module for deep learing
-# Developed as part of Poison Attack Benchmarking project
-# October 2019
 #
 ############################################################
 
