@@ -25,10 +25,10 @@ sh train.sh
 
 ## Results
 * Training Loss
-![Training Loss][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/train_loss.png]
+[Training Loss][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/train_loss.png]
 * Testing Loss
-![Testing Loss][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/test_loss.png]
+[Testing Loss][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/test_loss.png]
 * Training Accuracy
-![Training Accuracy][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/training_acc.png]
+[Training Accuracy][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/training_acc.png]
 * Testing Accuracy
-![Testing Accuracy][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/test_acc.png]
+[Testing Accuracy][https://github.com/Arjung27/Binary_Classification_Alexnet/blob/master/plots/test_acc.png]
