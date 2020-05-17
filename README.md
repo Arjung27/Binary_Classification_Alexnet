@@ -5,7 +5,7 @@ Binary classification between dogs and cats using alexnet inspired architecture
 ```
 python3, numpy, matplotlib
 OpenCV
-CUDA 10.0 #tested with this particular version
+CUDA 10.2 #tested with this particular version
 Pytorch 1.4 
 ```
 ## Run the code
